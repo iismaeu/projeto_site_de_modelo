@@ -1,0 +1,417 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"back",
+				"background-position\tproperty"
+			],
+			[
+				"background-",
+				"background-position\tproperty"
+			],
+			[
+				"te",
+				"text-indent\tproperty"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"res",
+				"responsivo"
+			],
+			[
+				"font",
+				"font\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"link",
+				"linktres"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"Informa",
+				"Informática"
+			],
+			[
+				"noti",
+				"noticias2"
+			],
+			[
+				"l",
+				"linkum"
+			],
+			[
+				"bacgoru",
+				"background-size\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"fi",
+				"fixed2"
+			],
+			[
+				"re",
+				"relative2"
+			],
+			[
+				"wdi",
+				"width\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"bor",
+				"border-color\tproperty"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"fonte",
+				"font-weight\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"img",
+				"background-image\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"td",
+				"td"
+			],
+			[
+				"blue",
+				"mediumblue"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"yellow",
+				"lightyellow"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"p",
+				"produto3"
+			],
+			[
+				"pr",
+				"produto1"
+			],
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Ismael/Desktop/Curso udemy/css/css avançado/barra-vertical.html",
+		"/C/Users/Ismael/Desktop/Curso udemy/css/css avançado/estilo-selecionado.css",
+		"/C/Users/Ismael/Desktop/Curso udemy/css/css avançado/conteudo.html",
+		"/C/Users/Ismael/Desktop/Curso udemy/css/css avançado/estilo.css",
+		"/C/Users/Ismael/Desktop/Curso udemy/css/css intermediario/projeto css/index.html",
+		"/C/Users/Ismael/Desktop/Curso udemy/css/css intermediario/projeto css/estilo.css",
+		"/C/Users/Ismael/Desktop/Curso udemy/css/css intermediario2/mais-seletores.html",
+		"/C/Users/Ismael/Desktop/Curso udemy/css/css intermediario/flutuantes-pratica.html",
+		"/C/Users/Ismael/Desktop/Curso udemy/css/css intermediario/posicionamentos.html",
+		"/C/Users/Ismael/Desktop/Curso udemy/css/css intermediario/flutuantes.css",
+		"/C/Users/Ismael/Desktop/Curso udemy/css/css intermediario/estilo.css",
+		"/C/Users/Ismael/Desktop/Curso udemy/css/css intermediario/formatando link.html",
+		"/C/Users/Ismael/Desktop/Curso udemy/css/css intermediario/inline-block.html",
+		"/C/Users/Ismael/Desktop/Curso udemy/css/css intermediario/modelo-caixa.html",
+		"/C/Users/Ismael/Desktop/Curso udemy/css/css intermediario/elementos flutuantes.html",
+		"/C/Users/Ismael/Desktop/Curso udemy/css/projeto _site1/biografia.html",
+		"/C/Users/Ismael/Desktop/Curso udemy/css/projeto _site1/campanhas-publicitarias.html",
+		"/C/Users/Ismael/Desktop/Curso udemy/css/projeto _site1/contato.html",
+		"/C/Users/Ismael/Desktop/Curso udemy/css/projeto _site1/index.html",
+		"/C/Users/Ismael/Desktop/Curso udemy/css/projeto _site1/estilo_projeto.css",
+		"/C/Users/Ismael/Desktop/Curso udemy/css/projeto _site1.html",
+		"/C/Users/Ismael/Desktop/Curso udemy/css/pagina 1.html",
+		"/C/Users/Ismael/Desktop/Curso udemy/css/pagina 2.html",
+		"/C/Users/Ismael/Desktop/Curso udemy/css/estilo.css",
+		"/C/Users/Ismael/Desktop/Curso udemy/css/cores-imagens-fundo.html",
+		"/C/Users/Ismael/Desktop/Curso udemy/css/tamanho-textos.html",
+		"/C/Users/Ismael/Desktop/Curso udemy/css/testando ideias, table, div, tr ,td , class.html",
+		"/C/Users/Ismael/Desktop/Curso udemy/css/Divs_Span.html",
+		"/C/Users/Ismael/Desktop/Curso udemy/css/inline_style.html",
+		"/C/Users/Ismael/Desktop/Curso udemy/css/Div teste.html",
+		"/C/Users/Ismael/Desktop/html5/projeto de site/index.html",
+		"/C/Users/Ismael/Desktop/html5/projeto de site/contato.html",
+		"/C/Users/Ismael/Desktop/html5/projeto de site/quem-somos.html",
+		"/C/Users/Ismael/Desktop/html5/formularios/formularios.html",
+		"/C/Users/Ismael/Desktop/html5/caracteres especiais/caracteres especiais.html",
+		"/C/Users/Ismael/Desktop/html5/links/index.html",
+		"/C/Users/Ismael/Desktop/html5/tabelas/aula tabela.html",
+		"/C/Users/Ismael/Desktop/html5/links/contato.html",
+		"/C/Users/Ismael/Desktop/html5/imagens/imagens.html",
+		"/C/Users/Ismael/Desktop/html5/testando conhecimento hmtl/teste hmtl.html",
+		"/C/Users/Ismael/Desktop/html5/testes de listas/lista nao ordenada1.html",
+		"/C/Users/Ismael/Desktop/html5/testes de listas/lista nao ordenada2 - circle (circulo).html",
+		"/C/Users/Ismael/Desktop/html5/links/aula links.hmtl",
+		"/C/Users/Ismael/Desktop/html5/Menus, Mapas de Site.html",
+		"/C/Users/Ismael/Desktop/html5/Corpo de Projeto.html",
+		"/C/Users/Ismael/Desktop/html5/Formatação.html",
+		"/C/Users/Ismael/Desktop/index.html",
+		"/C/Users/Ismael/Desktop/projeto aula/CSS/estilo-teste.css",
+		"/C/Users/Ismael/Desktop/Projeto Web/Projeto Web/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 178.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
